@@ -93,4 +93,5 @@ The system consists of two main classes:
 - Stores user data in memory 
 - Follows secure password practices
 
-https://www.youtube.com/watch?v=p8bZBvcFPuk
+## Reference 
+Chegg, 2020. *How to Cite a YouTube Video in APA Style | Chegg*. [video online] Available at: <https://www.youtube.com/watch?v=p8bZBvcFPuk> [Accessed 22 April 2025].
